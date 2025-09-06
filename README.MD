@@ -22,6 +22,6 @@ Welcome to the **Research Pipeline Agent**, a Streamlit-based application design
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/research-pipeline-agent.git
+   git clone https://github.com/Benjamin-chidera/Research-Pipeline-Agent.git
    cd research-pipeline-agent
    ```
